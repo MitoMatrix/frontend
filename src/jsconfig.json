@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        // 一个模块没有默认导出 允许import from语法
+        "allowSyntheticDefaultImports": true,
+        "module": "ES2015"
+    }
+}
